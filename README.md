@@ -1,0 +1,1 @@
+# Sum-of-a-numerical-series
